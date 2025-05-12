@@ -16,6 +16,7 @@ jiraProjectKey: n/a
 # Environments this app runs on
 environments:
    - ROCKY9
+   - RHEL7
 
 # [Required]
 # Type of deployment

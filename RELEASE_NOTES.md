@@ -3,6 +3,9 @@
 Release notes for the SLAC LCLS-II HPS MPS Link Node
 
 ## Releases:
+* __l2MpsLN-R5-4-5__: 2025-5-12 pnispero
+  * Testing Software factory tag
+
 * __l2MpsLN-R5-4-4__: 2025-4-02 jmock
   * Add EGU to WF START and NELM records
 
