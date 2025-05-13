@@ -3,6 +3,9 @@
 Release notes for the SLAC LCLS-II HPS MPS Link Node
 
 ## Releases:
+* tag:__l2MpsLN-R5-4-7__: 2025-5-13 pnispero
+  * Testing Software factory tag pt4
+
 * tag:__l2MpsLN-R5-4-6__: 2025-5-12 pnispero
   * Testing Software factory tag pt3
 
