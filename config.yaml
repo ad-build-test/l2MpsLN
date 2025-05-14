@@ -20,7 +20,7 @@ environments:
 
 # [Required]
 # Type of deployment
-# Types: [ioc, hla, tools, matlab, pydm]
+# Types: [ioc, hla, tools, matlab, pydm, container]
 deploymentType: ioc
 
 # [Optional] 
